@@ -81,6 +81,15 @@ footer {
     background-color: black;
     color: white;
     font-family: "Lato", sans-serif;
+     text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 10px 0;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    position: fixe
 
 }
 
